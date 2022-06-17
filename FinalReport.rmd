@@ -79,7 +79,8 @@ According to the chart the race "white" has an overall greater percentage (73%) 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 
-According to the number chart, out of 100 race "white" 67.98 are in favor of cappun and 32.02 are opposed to cappun. Out of 100 race "black" 46.29 are in favor of cappun and 53.71 are opposed to cappun. Out of the 100 race "other 55.87 are in favor of cappun and 44.13 are opposed to cappun. In addition, out of the 100 races in favor of cappun; 78.34 are of "white" race, 11.7 are of "black" race, and 9.96 are other. Out of the 100 of races opposed to cappun: 63.24 are white, 23.27 are black, and 13.49 are other. 
+According to the number chart, out of 100 race "white" 67.98 are in favor of cappun and 32.02 are opposed to cappun. Out of 100 race "black" 46.29 are in favor of cappun and 53.71 are opposed to cappun. Out of the 100 race "other 55.87 are in favor of cappun and 44.13 are opposed to cappun. In addition, out of the 100 races in favor of cappun; 78.34 are of "white" race, 11.7 are of "black" race, and 9.96 are other. Out of the 100 of races opposed to cappun: 63.24 are white, 23.27 are black, and 13.49 are other.  
+
 
 ## Now with More data
 
