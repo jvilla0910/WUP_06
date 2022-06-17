@@ -71,6 +71,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
+According to the chart the race "white" has an overall greater percentage (73%) of being in favor of cappun, with race "other" holding (55%), and race "black" last with 45% in favor of cappun.  
 
 
 ### Numerical Descriptive Results
