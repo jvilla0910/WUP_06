@@ -79,7 +79,7 @@ According to the chart the race "white" has an overall greater percentage (73%) 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 
-
+According to the number chart, out of 100 race "white" 67.98 are in favor of cappun and 32.02 are opposed to cappun. Out of 100 race "black" 46.29 are in favor of cappun and 53.71 are opposed to cappun. Out of the 100 race "other 55.87 are in favor of cappun and 44.13 are opposed to cappun. In addition, out of the 100 races in favor of cappun; 78.34 are of "white" race, 11.7 are of "black" race, and 9.96 are other. Out of the 100 of races opposed to cappun: 63.24 are white, 23.27 are black, and 13.49 are other. 
 
 ## Now with More data
 
@@ -90,11 +90,12 @@ colPerc(table2)
 ```
 
 
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
-`
+ 
 
 
 ## More data version
@@ -106,6 +107,8 @@ fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 
+The p-value for the chi-squared test was 0. bunch of 0's 1 this is quite small so we reject the null hypothesis. 
+
 ```{r}
 fisherXY(mydata$cappun,mydata$race)
 ```
@@ -114,3 +117,6 @@ fisherXY(mydata$cappun,mydata$race)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Is there a difference of attitude towards capitol punishment (cappun) and independent of race (race)? When we reviewed the results of the chi-squared test we rejected the null hypothesis because of how small the p-value was, the p-value was 0. When we reviewed the chart we saw that there was a difference in favor that the race "white" had a higher percentage of 75% being in favor of cappun, with race "other" being in percentage of 55%, and race "black" being last with 45% in favor of cappun. With that being said there is a difference in attitude towards capital punishment depending on race because of the differences in percentages.    
+  
