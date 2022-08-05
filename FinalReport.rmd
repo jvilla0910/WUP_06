@@ -109,7 +109,7 @@ fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 
-The p-value for the chi-squared test was 0. bunch of 0's 1 this is quite small so we reject the null hypothesis. 
+The p-value for the chi-squared test was .00000000000002033. The p-value is very small so we reject the null hypotheses. We reject it because both p-values are way smaller than .05. The p-value for black vs other race is 0.02479 so regardless, both p-values given are different. 
 
 ```{r}
 fisherXY(mydata$cappun,mydata$race)
