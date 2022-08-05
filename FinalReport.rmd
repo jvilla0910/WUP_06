@@ -91,7 +91,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
-
+The white race has a higher rate in favor compared to any of the others. It's close to 68% in favor compared to the 46% in favor for African Americans. The white percentage in favor is 14% greater than the African American rate & is 12% greater than the other races rate. There's clearly a difference and the White continue to be most in favor. 
 
 ## Inferential Results
 
