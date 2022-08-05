@@ -118,7 +118,16 @@ fisherXY(mydata$cappun,mydata$race)
 
 # Discussion and Conclusion
 
+Our question was whether or not different races had different opinions on capital punishment. We stated that both values are categorical so we worked around it. We used a bar plot, a table, and a chi-squared test. From the following, we learned that there is a difference. Both our p-values were below .05. The white race was way more in favor of capital punishment compared  to any other race by 14%. Thus, we rejected the null hypothesis due to there being way too much evidence against the claim that there was no correlation between race & their opinions. 
+
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-Is there a difference of attitude towards capitol punishment (cappun) and independent of race (race)? When we reviewed the results of the chi-squared test we rejected the null hypothesis because of how small the p-value was, the p-value was 0. When we reviewed the chart we saw that there was a difference in favor that the race "white" had a higher percentage of 75% being in favor of cappun, with race "other" being in percentage of 55%, and race "black" being last with 45% in favor of cappun. With that being said there is a difference in attitude towards capital punishment depending on race because of the differences in percentages.    
+
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+
+  
+  
+
   
